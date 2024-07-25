@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Groovy</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cdb7c3a7-7601-4552-836d-a5094ee94beb</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>27959f8a-5aa3-43dd-9c75-fe070e436244</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'still empty'</defaultValue>
+      <description></description>
+      <id>27959f8a-5aa3-43dd-9c75-fe070e436244</id>
+      <masked>false</masked>
+      <name>testcaseAlertText</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>A</name>
+   <tag></tag>
+   <elementGuidId>e1a8b107-d2ba-4486-85a1-f85136c27708</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.item.active > div.col-sm-4 > div.product-image-wrapper > div.single-products > div.productinfo.text-center > a.btn.btn-default.add-to-cart</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='recommended-item-carousel']/div/div/div/div/div/div/a[@data-product-id='1']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>49abc16a-9f0d-4e06-8ac5-3a7e6dbcff15</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-product-id</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>ba5000d7-69a5-493e-a6ae-edbcdb70a879</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-default add-to-cart</value>
+      <webElementGuid>9a0f44ad-af3e-4a65-9d01-ca0996a46691</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Add to cart</value>
+      <webElementGuid>81d18272-5ce3-43d2-ab0f-898d7c6e1dc5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;recommended-item-carousel&quot;)/div[@class=&quot;carousel-inner&quot;]/div[@class=&quot;item active&quot;]/div[@class=&quot;col-sm-4&quot;]/div[@class=&quot;product-image-wrapper&quot;]/div[@class=&quot;single-products&quot;]/div[@class=&quot;productinfo text-center&quot;]/a[@class=&quot;btn btn-default add-to-cart&quot;]</value>
+      <webElementGuid>dc8d512a-f28a-43c7-a312-24375e95f354</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='recommended-item-carousel']/div/div/div/div/div/div/a</value>
+      <webElementGuid>03b76643-8a50-4a5b-956b-75b9180d9c44</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Add to cart')])[69]</value>
+      <webElementGuid>67f683da-66bb-44d4-adeb-e0b2257dc7c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rs. 500'])[3]/following::a[1]</value>
+      <webElementGuid>ddbdd875-991d-4411-acab-0991d7103b67</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='recommended items'])[1]/following::a[1]</value>
+      <webElementGuid>d2762022-f810-4c86-8b1e-b68c1569bf35</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rs. 400'])[5]/preceding::a[1]</value>
+      <webElementGuid>48707284-951d-41ca-ba0e-6ed2e3f8495f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add to cart'])[70]/preceding::a[1]</value>
+      <webElementGuid>8dc98766-e22d-48bc-83e5-35b37a303359</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div/div/div/a</value>
+      <webElementGuid>0a4f9bd8-1fb1-407f-86b3-c4cba7f44a96</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = 'Add to cart' or . = 'Add to cart')]</value>
+      <webElementGuid>090184f4-4690-4a3e-8823-64b0c533890b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

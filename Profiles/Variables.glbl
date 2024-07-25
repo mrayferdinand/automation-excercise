@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>Variables</name>
+   <tag></tag>
+   <defaultProfile>false</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'file:///C:/Users/Teguh%20IPN/OneDrive%20-%20PT.%20Telekomunikasi%20Indonesia/Documents/Downloads/Download-Sample-Site/learnks1-home.html'</initValue>
+      <name>url</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'rayferdinand'</initValue>
+      <name>uname</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'haha@gmail.com\r\n'</initValue>
+      <name>email</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>
